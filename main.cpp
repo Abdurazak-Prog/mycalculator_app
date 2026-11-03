@@ -24,7 +24,7 @@ int main()
        cout << "hello world 17" << endl;
        cout << "hello world 18" << endl;
        cout << "hello world 19" << endl;
-       cout << "hello world 20" << endl;
+       cout << "hello world 20 zzzzzzzzzzzzzzzzzzz" << endl;
        cout << "hello world 22" << endl;
        cout << "hello world 23" << endl;
        cout << "hello world 24" << endl;
@@ -38,5 +38,5 @@ int main()
        cout << "hello world 30" << endl;
        cout << "Hello world 31" << endl;
        cout << "Hello world 32" << endl;
-       cout << "Hello world 33 yyyyyyyyyyyy" << endl;
+       cout << "Hello world 33 zzzzzzzzzzzzzzzzzzzz" << endl;
 }
