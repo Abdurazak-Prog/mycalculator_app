@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Result: " << "result" << endl;
+	cout << "Calculation result = " << "result" << endl;
 }
